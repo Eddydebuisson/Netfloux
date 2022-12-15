@@ -3,6 +3,11 @@
 # Description :
 
 Netfloux est une application qui regroupe des services de streaming film/serie, musique, jeux vidéo et également des vidéo youtube mise en avant par nos services.
+
+# prérequis
+
+Node.js
+
 # Installation
 
 * Cloner le projet
