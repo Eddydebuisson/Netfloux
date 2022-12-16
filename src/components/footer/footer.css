@@ -1,0 +1,59 @@
+.Footer {
+  background-color: #3757aa;
+  width: 100%;
+  height: 300px;
+  color: #fffafa;
+  display: flex;
+  flex-direction: column;
+}
+
+.Footer .Top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+
+.Footer .Top ul {
+  padding-right: 40px;
+}
+
+.Footer a {
+  text-decoration: none;
+  color: #fffafa;
+}
+.Footer a:hover {
+  text-decoration: underline;
+  color: #fffafa;
+}
+
+.Footer h3,
+ul,
+li {
+  margin-bottom: 23px;
+}
+
+.divider {
+  height: 1px;
+  width: 75%;
+  background: #fffafa;
+  opacity: 0.25;
+  margin: 0 auto;
+}
+
+.Footer svg {
+  width: 13px;
+  height: 16px;
+  padding: 0 10px;
+  fill: #fffafa;
+}
+
+.Footer .bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Footer .politique a {
+  padding-right: 40px;
+}
